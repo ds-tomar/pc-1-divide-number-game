@@ -7,7 +7,7 @@ public class GameDemo {
         int finalNumber = 0;
         try {
             //write logic
-
+            finalNumber = firstNumber / secondNumber;
             //Handle specific exception
         }catch (Exception exception){
           return exception.toString();
